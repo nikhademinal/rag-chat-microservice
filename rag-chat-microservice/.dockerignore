@@ -1,0 +1,39 @@
+# Build outputs
+target/
+build/
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.settings/
+.project
+.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Documentation
+*.md
+docs/
+
+# Environment files
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# Test files (optional - remove if you want to run tests in Docker)
+src/test/
