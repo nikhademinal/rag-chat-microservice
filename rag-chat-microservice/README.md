@@ -77,7 +77,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/rag-chat-microservice.git
+git clone https://github.com/nikhademinal/rag-chat-microservice.git
 cd rag-chat-microservice
 ```
 
